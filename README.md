@@ -2,6 +2,9 @@
 
 A simple React-based quiz application using Zustand for state management.
 
+## Live Demo:
+=> https://qui-app-v1.netlify.app/
+
 ## Features
 - Displays multiple-choice questions.
 - Tracks user score.
